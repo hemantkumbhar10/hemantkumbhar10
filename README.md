@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack social media app<br>🌱 I’m currently learning MERN stack<br>💬 Ask me anything about JavaScript, Silhouette paintings
+🔭 I’m currently working on a full stack social media app<br>🌱 I’m a Developer @Wipro. Ltd<br>💬 Ask me anything about JavaScript, Silhouette paintings
 
 
 # 💻 Tech Stack:
