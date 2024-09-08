@@ -14,7 +14,7 @@ Currently working as a developer at Wipro Limited
 - Discord: `rickzie`
 
 #### Work
-- View all my projects at [Portfolio website](https://hemantkumbhar.com)
+- View all my projects at my [Portfolio website](https://hemantkumbhar.com)
 - Currently working on a full stack social media app [Kravins](https://kravins.site)
 
 #### Skills & Interests
