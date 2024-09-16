@@ -15,7 +15,7 @@ Currently working as a developer at Wipro Limited
 
 #### Work
 - View all my projects at my [Portfolio website](https://hemantkumbhar.com)
-- Currently working on a full stack social media app [Kravins](https://kravins.site)
+- Building [Kravins](https://kravins.site)
 
 #### Skills & Interests
 - Full Stack Skills: MERN, Typescript, Figma, Playwright, Jest, Tailwind CSS, Redux
