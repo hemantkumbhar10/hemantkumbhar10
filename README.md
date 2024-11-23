@@ -24,7 +24,7 @@ Currently working as a developer at Wipro Limited
 
 
 ##### Other Facts:
-- I am also a Silhouette artist [My Artwork](https://www.instagram.com/lone_shadows/)
+- I am also a Silhouette artist. See [My Artwork](https://www.instagram.com/lone_shadows/)
 
 
         
